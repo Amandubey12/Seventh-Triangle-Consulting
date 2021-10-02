@@ -1,0 +1,65 @@
+@media only  screen and (max-width:600px){
+    .{
+        display: block;
+
+
+    }
+    .sub-main{
+        display:block;
+    }
+    .rice{
+        display: block;
+    }
+    .pay{
+        display: block;
+        justify-self: center;
+        align-items: center;
+        text-align: center;
+    }
+    .sub-main2{
+        display:block;
+        justify-content: center;
+    }
+    .only{
+        display: flexbox;
+        justify-content: center;
+        align-items: center;
+    }
+    .all4{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin:10px;
+
+    }
+    .al4{
+        display: block;
+        justify-content: center;
+
+    }
+    .pro1{
+        display: block;
+      
+        margin-left: 200px;
+    }
+    .pro2{
+        display: block;
+       
+        margin-left: 200px;
+      margin-top: 10px;
+    }
+    .pro3{
+        display: block;
+       
+        
+        margin-left: 200px;
+        margin-top: 10px;
+
+    }
+    .pro4{
+        display: block;
+        
+        margin-left: 200px;
+        margin-top: 10px;
+    }
+}
