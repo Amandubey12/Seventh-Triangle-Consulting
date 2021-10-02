@@ -1,0 +1,170 @@
+.rice{
+    width: 500px;
+     margin:100px 70px 20px 70px;
+}
+#second{
+    display:none;
+}
+
+
+
+.pay{
+    width: 500px;
+    margin-top: 100px;
+    
+     display:inline-block; 
+
+}
+.am{
+    border-radius: 5rem;
+}
+.value-button {
+    display: inline-block;
+    
+   margin: 0px; 
+    width: 40px;
+    height: 20px; 
+    text-align: center;
+    vertical-align: middle;
+  
+  
+  
+  }
+  
+  
+  
+  form #decrease {
+    margin-right: -4px;
+    
+  }
+  
+  form #increase {
+    margin-left: -4px;
+    
+  }
+  
+  form #input-wrap {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  input#number {
+    text-align: center;
+    border: none;
+    
+    
+    margin: 0px;
+    width: 30px;
+    height: 30px;
+  }
+   
+  
+.bt3{
+    background-color:blue;
+    border-radius: 5rem;
+    height: 25px;
+}
+.only{
+    width: 500px;
+    margin: 100px;
+    border: 2px solid grey;
+    margin: 20px 20px 20px 100px;
+    background:rgb(226, 219, 219);
+    height: 550px;
+}
+.only img{
+   margin-top: 10px;
+   margin-left: 20px;
+}
+.btn{
+    width: 450px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 15px;
+    background:white;
+    border: thick;
+    border-radius: 5rem;
+
+}
+.all4{
+    width: 500px;
+    margin: 20px 0 100px 0;
+    border: 2px solid white;
+    /* background */
+
+
+}
+.btn1{
+    width: 150px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 5rem;
+    border: thick;
+    background: white;
+}
+.all4{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.al4{
+   
+    display: contents;
+}
+.pro1{
+    border: thick;
+    border: 3px solid grey;
+    width: 200px;
+    padding :5px 10px 0px 20px;
+    height: 250px;
+    background:rgb(226, 219, 219);
+    /* border-radius: 2rem; */
+
+}
+.pro1 img{
+    width: 200px;
+    padding-right: 20px;
+  
+}
+.pro2{
+    border: thick;
+    border: 3px solid grey;
+    width: 200px;
+    padding: 5px 10px 10px 20px;
+    height: 250px;
+    background:rgb(226, 219, 219);
+    
+}
+.pro2 img{
+    width: 200px;
+    
+}
+.pro3{
+    border: thick;
+    border: 3px solid grey;
+    width: 200px;
+    /* border-radius: 2rem; */
+    padding: 10px 20px 20px 12px;
+    height: 250px;
+    background:rgb(226, 219, 219);
+}
+.pro3 img{
+    width: 200px;
+    
+}
+.pro4{
+    border: thick;
+    border: 3px solid  grey;
+    width: 200px;
+    /* border-radius: 2rem; */
+    padding: 20px 20px 10px 10px;
+    height: 250px;
+    background:rgb(226, 219, 219);
+}
+.pro4 img{
+    width: 200px;
+    
+}
+
+
+

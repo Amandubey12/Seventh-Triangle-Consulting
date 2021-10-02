@@ -1,0 +1,31 @@
+body{
+    padding: 2rem;
+    margin: 1rem;
+}
+.main{
+    display: grid;
+     grid-template-columns: repeat(2); 
+    
+}
+ .sub-main{
+    background: rgb(250, 248, 248);
+    display:flex;
+    grid-template-columns: repeat(2) ;
+ }
+ 
+ button:hover{
+     background:green;
+ }
+.rice{
+    width: 500px;
+    margin: px;
+}
+.sub-main2{
+    background: rgb(250, 248, 248);
+    display: flex;
+    grid-template-columns: repeat(2) ;
+    margin-top: 20px ;
+}
+
+
+    
