@@ -26,15 +26,15 @@
         align-items: center;
     }
     .all4{
-        display: block;
+        display: content;
         justify-content: center;
         align-items: center;
         margin:10px;
 
     }
     .al4{
-        display: block;
-        /* justify-content: center; */
+/*         display: block; */
+        justify-content: center;
 
     }
     .pro1{
